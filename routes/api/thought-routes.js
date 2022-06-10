@@ -14,11 +14,10 @@ const {
 router
   .route('/')
   .get(getAllThoughts)
-  .post(createThought);
 
 router
   .route('/:userId')
-
+  .post(createThought);
 
 // Set up GET one, PUT, and DELETE at /api/thoughts/:id
 router
