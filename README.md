@@ -1,7 +1,7 @@
 # Soc Network API
 
 ## Purpose
-An API that provides user the ability to create perform CRUD operations on the database using MongoDB & Mongoose. Users are able to access endpoints that allow them to create, view, update & delete users, thoughts, reactions and friends. 
+An API that provides user the ability to perform CRUD operations on the database using MongoDB & Mongoose. Users are able to access endpoints that allow them to create, view, update & delete users, thoughts, reactions and friends. 
 
 ## Built & Deployed With
 * Node.js
